@@ -137,6 +137,6 @@ article h2{
 }
 #skill-container .progresso{
   height: 100%;
-  background-color: var(--destaque-inverso);
+  background-color: var(--destaque);
   border-radius: 4px;
 }
